@@ -1,6 +1,6 @@
 {
     "name": "borschik-tech-procss-image",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "author": {
         "name": "Dmitriy Vinokurov",
         "email": "vinokuroff.dm@gmail.com",
@@ -18,7 +18,7 @@
         "vow": "0.3.10",
         "inherit": "2.1.0",
         "borschik-tech-procss": "git://github.com/vindm/borschik-tech-procss.git",
-        "spriter": "git://github.com/vindm/spriter.git"
+        "spriter": "git://github.com/vindm/spriter.git#0.1.0"
     },
     "peerDependencies": {
         "borschik": "0.4.x"
